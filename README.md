@@ -1,6 +1,6 @@
-# Behind-Every-Record-A-Life-Is-Lost
+# Behind Every Record A Life Is Lost!
 
-# US Homicide Data Analysis (1980–2014)
+US Homicide Data Analysis (1980–2014)
 
 ## Overview
 This project explores patterns and insights in homicide data across the United States over a 35-year period. The dataset includes detailed information about victims, offenders, relationships, weapons used, and resolution status of the crimes. The goal is to understand how demographics, geography, and interpersonal relationships affect violent crime trends.
